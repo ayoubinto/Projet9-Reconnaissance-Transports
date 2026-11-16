@@ -1,0 +1,24 @@
+# Environnements Python
+.venv/
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Fichiers temporaires
+*.log
+.DS_Store
+Thumbs.db
+
+# Configurations locales et secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Fichiers des éditeurs
+.vscode/
+.idea/
