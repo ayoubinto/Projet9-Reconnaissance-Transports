@@ -1,0 +1,31 @@
+{
+  "task": "transport",
+  "epochs_requested": 12,
+  "epochs_completed": 12,
+  "imgsz": 320,
+  "batch": 8,
+  "device": "cpu",
+  "seed": 42,
+  "seconds": 536.0850428999984,
+  "test_metrics": {
+    "metrics/precision(B)": 0.6931889775383615,
+    "metrics/recall(B)": 0.6595587174375754,
+    "metrics/mAP50(B)": 0.6289844703780504,
+    "metrics/mAP50-95(B)": 0.4763262682143591,
+    "fitness": 0.4763262682143591
+  },
+  "per_class_ap50_95": {
+    "Bus": 0.6838373992673993,
+    "Metro": 0.46615133417424504,
+    "Tram": 0.27899007120143293
+  },
+  "speed_ms": {
+    "preprocess": 1.0672285723211687,
+    "inference": 72.35104285618513,
+    "loss": 0.0003095220087007398,
+    "postprocess": 3.138628570706628
+  },
+  "checkpoint": "models\\transport.pt",
+  "python": "3.12.7",
+  "torch": "2.9.0+cpu"
+}

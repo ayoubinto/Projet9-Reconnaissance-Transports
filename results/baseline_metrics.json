@@ -1,0 +1,70 @@
+{
+  "protocol": "Classification on ground-truth transport crops; not detection",
+  "train_n": 111,
+  "val_n": 25,
+  "test_n": 31,
+  "selected_C": 0.01,
+  "validation_macro_f1": [
+    0.6556332556332557,
+    0.6556332556332557,
+    0.6556332556332557
+  ],
+  "test_accuracy": 0.7096774193548387,
+  "test_macro_f1": 0.7003367003367004,
+  "confusion_matrix": [
+    [
+      9,
+      0,
+      0
+    ],
+    [
+      3,
+      5,
+      1
+    ],
+    [
+      1,
+      4,
+      8
+    ]
+  ],
+  "class_order": [
+    "Bus",
+    "Metro",
+    "Tram"
+  ],
+  "classification_report": {
+    "Bus": {
+      "precision": 0.6923076923076923,
+      "recall": 1.0,
+      "f1-score": 0.8181818181818182,
+      "support": 9.0
+    },
+    "Metro": {
+      "precision": 0.5555555555555556,
+      "recall": 0.5555555555555556,
+      "f1-score": 0.5555555555555556,
+      "support": 9.0
+    },
+    "Tram": {
+      "precision": 0.8888888888888888,
+      "recall": 0.6153846153846154,
+      "f1-score": 0.7272727272727273,
+      "support": 13.0
+    },
+    "accuracy": 0.7096774193548387,
+    "macro avg": {
+      "precision": 0.7122507122507122,
+      "recall": 0.7236467236467238,
+      "f1-score": 0.7003367003367004,
+      "support": 31.0
+    },
+    "weighted avg": {
+      "precision": 0.735042735042735,
+      "recall": 0.7096774193548387,
+      "f1-score": 0.7038123167155426,
+      "support": 31.0
+    }
+  },
+  "seconds": 4.453800799994497
+}

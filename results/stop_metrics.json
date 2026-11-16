@@ -1,0 +1,32 @@
+{
+  "task": "stop",
+  "epochs_requested": 5,
+  "epochs_completed": 5,
+  "imgsz": 320,
+  "batch": 8,
+  "device": "cpu",
+  "seed": 42,
+  "seconds": 126.53047170001082,
+  "seconds_scope": "training plus test",
+  "resumed_after_epoch": 0,
+  "previous_recorded_training_seconds": 0,
+  "test_metrics": {
+    "metrics/precision(B)": 1.0,
+    "metrics/recall(B)": 0.9651617907393486,
+    "metrics/mAP50(B)": 0.995,
+    "metrics/mAP50-95(B)": 0.8907258942845724,
+    "fitness": 0.8907258942845724
+  },
+  "per_class_ap50_95": {
+    "bus-stop": 0.8907258942845724
+  },
+  "speed_ms": {
+    "preprocess": 1.075059999129735,
+    "inference": 53.48956500092754,
+    "loss": 0.00033999967854470015,
+    "postprocess": 2.2377350003807805
+  },
+  "checkpoint": "models\\stop.pt",
+  "python": "3.12.7",
+  "torch": "2.9.0+cpu"
+}

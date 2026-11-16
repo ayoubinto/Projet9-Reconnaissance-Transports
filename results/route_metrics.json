@@ -1,0 +1,32 @@
+{
+  "task": "route",
+  "epochs_requested": 12,
+  "epochs_completed": 12,
+  "imgsz": 320,
+  "batch": 8,
+  "device": "cpu",
+  "seed": 42,
+  "seconds": 95.32169549999526,
+  "seconds_scope": "current resumed execution plus test",
+  "resumed_after_epoch": 11,
+  "previous_recorded_training_seconds": 805.669,
+  "test_metrics": {
+    "metrics/precision(B)": 0.9946133483674832,
+    "metrics/recall(B)": 0.8695652173913043,
+    "metrics/mAP50(B)": 0.9852380894650631,
+    "metrics/mAP50-95(B)": 0.6914155141206573,
+    "fitness": 0.6914155141206573
+  },
+  "per_class_ap50_95": {
+    "LED-Panel": 0.6914155141206573
+  },
+  "speed_ms": {
+    "preprocess": 0.6487651518193271,
+    "inference": 53.97310454502462,
+    "loss": 0.00030757589477368373,
+    "postprocess": 2.8965727277946742
+  },
+  "checkpoint": "models\\route.pt",
+  "python": "3.12.7",
+  "torch": "2.9.0+cpu"
+}

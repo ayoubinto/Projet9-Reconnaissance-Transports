@@ -1,0 +1,112 @@
+{
+  "protocol": "First readable test ROIs in filename order; manual visual transcription before OCR; ground-truth boxes",
+  "n": 8,
+  "excluded": 9,
+  "exact_accuracy": 0.625,
+  "CER": 0.38095238095238093,
+  "seconds": 4.491285199997947,
+  "predictions": [
+    {
+      "roi": "03.jpg",
+      "truth": "505",
+      "prediction": "505",
+      "candidates": [
+        "505"
+      ],
+      "texts": [
+        {
+          "text": "505",
+          "confidence": 0.9666791236259521
+        }
+      ]
+    },
+    {
+      "roi": "04.jpg",
+      "truth": "505",
+      "prediction": "505",
+      "candidates": [
+        "505"
+      ],
+      "texts": [
+        {
+          "text": "505",
+          "confidence": 0.8997935221678539
+        }
+      ]
+    },
+    {
+      "roi": "05.jpg",
+      "truth": "508",
+      "prediction": "508",
+      "candidates": [
+        "508"
+      ],
+      "texts": [
+        {
+          "text": "508",
+          "confidence": 0.9815810201480025
+        }
+      ]
+    },
+    {
+      "roi": "06.jpg",
+      "truth": "95",
+      "prediction": "95",
+      "candidates": [
+        "95"
+      ],
+      "texts": [
+        {
+          "text": "95",
+          "confidence": 0.9998355469580109
+        }
+      ]
+    },
+    {
+      "roi": "08.jpg",
+      "truth": "516",
+      "prediction": "",
+      "candidates": [],
+      "texts": [
+        {
+          "text": "Gif",
+          "confidence": 0.6495857463191061
+        }
+      ]
+    },
+    {
+      "roi": "10.jpg",
+      "truth": "95",
+      "prediction": "95",
+      "candidates": [
+        "95"
+      ],
+      "texts": [
+        {
+          "text": "95",
+          "confidence": 0.9979222873668574
+        }
+      ]
+    },
+    {
+      "roi": "11.jpg",
+      "truth": "95",
+      "prediction": "",
+      "candidates": [],
+      "texts": []
+    },
+    {
+      "roi": "14.jpg",
+      "truth": "516",
+      "prediction": "",
+      "candidates": [],
+      "texts": [
+        {
+          "text": "Gis",
+          "confidence": 0.1585578519435783
+        }
+      ]
+    }
+  ],
+  "limitation": "Small exploratory sample; conditional on ground-truth crop, not end-to-end accuracy; single annotator"
+}

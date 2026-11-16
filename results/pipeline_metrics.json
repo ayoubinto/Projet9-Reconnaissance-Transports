@@ -1,0 +1,75 @@
+{
+  "n": 8,
+  "correct": 5,
+  "localized": 8,
+  "exact_success_rate": 0.625,
+  "detection_conf": 0.25,
+  "IoU": 0.5,
+  "rows": [
+    {
+      "source": "data/route/test/images/00123_v1train__WhatsApp-Image-2026-02-24-at-15-28-57-1-_jpeg_bus1_jpg.rf.24b65b9d2b6bee09f2cd8169571a4f1b.jpg",
+      "roi": "03.jpg",
+      "truth": "505",
+      "prediction": "505",
+      "localized": true,
+      "correct": true
+    },
+    {
+      "source": "data/route/test/images/00147_v1train__WhatsApp-Image-2026-02-24-at-15-28-58_jpeg_bus1_jpg.rf.162526f03a3498702a3084719a58e7a9.jpg",
+      "roi": "04.jpg",
+      "truth": "505",
+      "prediction": "505",
+      "localized": true,
+      "correct": true
+    },
+    {
+      "source": "data/route/test/images/00183_v1train__WhatsApp-Image-2026-02-24-at-15-29-00_jpeg_bus1_jpg.rf.0fce2521155d3f335e8b2561ce9c6fa9.jpg",
+      "roi": "05.jpg",
+      "truth": "508",
+      "prediction": "508",
+      "localized": true,
+      "correct": true
+    },
+    {
+      "source": "data/route/test/images/00222_v1train__WhatsApp-Image-2026-02-24-at-15-29-02-2-_jpeg_bus1_jpg.rf.3b756ef8dc7a757266f1b7082da2435b.jpg",
+      "roi": "06.jpg",
+      "truth": "95",
+      "prediction": "95",
+      "localized": true,
+      "correct": true
+    },
+    {
+      "source": "data/route/test/images/00306_v1train__WhatsApp-Image-2026-02-24-at-15-29-06_jpeg_bus1_jpg.rf.12bbecd2b271cc9626e66b0c9bf6c9a8.jpg",
+      "roi": "08.jpg",
+      "truth": "516",
+      "prediction": "",
+      "localized": true,
+      "correct": false
+    },
+    {
+      "source": "data/route/test/images/00321_v1valid__WhatsApp-Image-2026-02-24-at-15-28-54-1-_jpeg_bus1_jpg.rf.908e1d1784705cfc070aacbd526a193c.jpg",
+      "roi": "10.jpg",
+      "truth": "95",
+      "prediction": "95",
+      "localized": true,
+      "correct": true
+    },
+    {
+      "source": "data/route/test/images/00330_v1valid__WhatsApp-Image-2026-02-24-at-15-28-57_jpeg_bus1_jpg.rf.1ee83def515a8aa541362075e0fac641.jpg",
+      "roi": "11.jpg",
+      "truth": "95",
+      "prediction": "",
+      "localized": true,
+      "correct": false
+    },
+    {
+      "source": "data/route/test/images/00372_v1valid__WhatsApp-Image-2026-02-24-at-15-29-06_jpeg_bus1_jpg.rf.00e9142caf85c65344727ca23cfdb3b0.jpg",
+      "roi": "14.jpg",
+      "truth": "516",
+      "prediction": "",
+      "localized": true,
+      "correct": false
+    }
+  ],
+  "limitation": "Exploratory readable positive subset only; not a full system accuracy or false-positive evaluation"
+}
