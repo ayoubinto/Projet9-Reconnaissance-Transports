@@ -3,3 +3,4 @@ results/demo/** filter=lfs diff=lfs merge=lfs -text
 results/evaluation/** filter=lfs diff=lfs merge=lfs -text
 results/training/** filter=lfs diff=lfs merge=lfs -text
 data/** filter=lfs diff=lfs merge=lfs -text
+data_raw/** filter=lfs diff=lfs merge=lfs -text
