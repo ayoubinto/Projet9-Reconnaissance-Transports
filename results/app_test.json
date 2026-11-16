@@ -1,0 +1,10 @@
+{
+  "exit_code": 0,
+  "log": "results/tests_final.log",
+  "functional_tests": [
+    "OCR and persistent results",
+    "No OCR and threshold change"
+  ],
+  "passed": true,
+  "skipped": false
+}

@@ -1,0 +1,74 @@
+{
+  "detections": [
+    {
+      "task": "transport",
+      "label": "Bus",
+      "confidence": 0.8909078240394592,
+      "box": [
+        27.88990592956543,
+        4.954277992248535,
+        505.9526062011719,
+        535.2210693359375
+      ],
+      "text": [],
+      "route_candidates": [],
+      "stop_name": null
+    },
+    {
+      "task": "route",
+      "label": "LED-Panel",
+      "confidence": 0.9263649582862854,
+      "box": [
+        148.59425354003906,
+        124.28605651855469,
+        195.04441833496094,
+        162.2537078857422
+      ],
+      "text": [
+        {
+          "text": "505]",
+          "confidence": 0.5792442560195923
+        }
+      ],
+      "route_candidates": [
+        "505"
+      ],
+      "stop_name": null,
+      "vehicle_index": 0
+    },
+    {
+      "task": "stop",
+      "label": "bus-stop",
+      "confidence": 0.420013964176178,
+      "box": [
+        7.254454135894775,
+        0.0,
+        531.0,
+        550.8369750976562
+      ],
+      "text": [
+        {
+          "text": "15",
+          "confidence": 0.09270537143095021
+        },
+        {
+          "text": "505971",
+          "confidence": 0.6056384614655514
+        },
+        {
+          "text": "@pSI",
+          "confidence": 0.0898042544722557
+        },
+        {
+          "text": "22604",
+          "confidence": 0.23045189506460392
+        }
+      ],
+      "route_candidates": [],
+      "stop_name": null,
+      "visible_stop_text": "505971"
+    }
+  ],
+  "seconds": 15.912222499988275,
+  "ocr_enabled": true
+}
