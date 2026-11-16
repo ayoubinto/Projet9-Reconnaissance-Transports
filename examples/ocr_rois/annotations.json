@@ -1,0 +1,223 @@
+[
+  {
+    "roi": "00.jpg",
+    "source": "data/route/test/images/00024_img__18_bus1_jpg.rf.95ea8a6f5a6ee3480eb575fede88e009.jpg",
+    "box": [
+      1101.18500124,
+      218.41999674000002,
+      1128.9750084,
+      321.38000086
+    ],
+    "route_truth": "",
+    "readable": false,
+    "note": "Exclu : affichage partiel, non numérique ou trop ambigu pour une ligne complète"
+  },
+  {
+    "roi": "01.jpg",
+    "source": "data/route/test/images/00063_img__4_bus5_jpg.rf.181d1118c9a2171034e3d955116431f7.jpg",
+    "box": [
+      4.0550000006793485e-06,
+      106.00000200000001,
+      34.000003105,
+      162.0
+    ],
+    "route_truth": "",
+    "readable": false,
+    "note": "Exclu : affichage partiel, non numérique ou trop ambigu pour une ligne complète"
+  },
+  {
+    "roi": "02.jpg",
+    "source": "data/route/test/images/00063_img__4_bus5_jpg.rf.181d1118c9a2171034e3d955116431f7.jpg",
+    "box": [
+      580.8750031799999,
+      85.0950009,
+      594.72500166,
+      121.6250019
+    ],
+    "route_truth": "",
+    "readable": false,
+    "note": "Exclu : affichage partiel, non numérique ou trop ambigu pour une ligne complète"
+  },
+  {
+    "roi": "03.jpg",
+    "source": "data/route/test/images/00123_v1train__WhatsApp-Image-2026-02-24-at-15-28-57-1-_jpeg_bus1_jpg.rf.24b65b9d2b6bee09f2cd8169571a4f1b.jpg",
+    "box": [
+      149.74500280499998,
+      123.58999765,
+      194.155001955,
+      160.96999947
+    ],
+    "route_truth": "505",
+    "readable": true,
+    "note": "Transcription visuelle manuelle avant OCR"
+  },
+  {
+    "roi": "04.jpg",
+    "source": "data/route/test/images/00147_v1train__WhatsApp-Image-2026-02-24-at-15-28-58_jpeg_bus1_jpg.rf.162526f03a3498702a3084719a58e7a9.jpg",
+    "box": [
+      78.56500171999998,
+      78.90499905,
+      101.07500076,
+      99.23500055
+    ],
+    "route_truth": "505",
+    "readable": true,
+    "note": "Transcription visuelle manuelle avant OCR"
+  },
+  {
+    "roi": "05.jpg",
+    "source": "data/route/test/images/00183_v1train__WhatsApp-Image-2026-02-24-at-15-29-00_jpeg_bus1_jpg.rf.0fce2521155d3f335e8b2561ce9c6fa9.jpg",
+    "box": [
+      163.51500059999998,
+      127.68499820999999,
+      220.705002,
+      175.27499913
+    ],
+    "route_truth": "508",
+    "readable": true,
+    "note": "Transcription visuelle manuelle avant OCR"
+  },
+  {
+    "roi": "06.jpg",
+    "source": "data/route/test/images/00222_v1train__WhatsApp-Image-2026-02-24-at-15-29-02-2-_jpeg_bus1_jpg.rf.3b756ef8dc7a757266f1b7082da2435b.jpg",
+    "box": [
+      108.13499805000001,
+      83.210000205,
+      135.36499987,
+      118.17000001499999
+    ],
+    "route_truth": "95",
+    "readable": true,
+    "note": "Transcription visuelle manuelle avant OCR"
+  },
+  {
+    "roi": "07.jpg",
+    "source": "data/route/test/images/00243_v1train__WhatsApp-Image-2026-02-24-at-15-29-03-2-_jpeg_bus1_jpg.rf.3038d9781cfa475ae9c00c2c798a290f.jpg",
+    "box": [
+      128.26500183000002,
+      68.619998355,
+      152.77500105000001,
+      114.579998325
+    ],
+    "route_truth": "",
+    "readable": false,
+    "note": "Exclu : affichage partiel, non numérique ou trop ambigu pour une ligne complète"
+  },
+  {
+    "roi": "08.jpg",
+    "source": "data/route/test/images/00306_v1train__WhatsApp-Image-2026-02-24-at-15-29-06_jpeg_bus1_jpg.rf.12bbecd2b271cc9626e66b0c9bf6c9a8.jpg",
+    "box": [
+      84.42000201,
+      31.769998290000004,
+      115.50000069000001,
+      63.14999979
+    ],
+    "route_truth": "516",
+    "readable": true,
+    "note": "Transcription visuelle manuelle avant OCR"
+  },
+  {
+    "roi": "09.jpg",
+    "source": "data/route/test/images/00309_v1train__WhatsApp-Image-2026-02-24-at-15-29-07-1-_jpeg_bus1_jpg.rf.372e06cc6539d1c7e46cf10c22b180f0.jpg",
+    "box": [
+      340.0950016,
+      42.655,
+      355.8050008,
+      69.70499903999999
+    ],
+    "route_truth": "",
+    "readable": false,
+    "note": "Exclu : affichage partiel, non numérique ou trop ambigu pour une ligne complète"
+  },
+  {
+    "roi": "10.jpg",
+    "source": "data/route/test/images/00321_v1valid__WhatsApp-Image-2026-02-24-at-15-28-54-1-_jpeg_bus1_jpg.rf.908e1d1784705cfc070aacbd526a193c.jpg",
+    "box": [
+      106.49000114999998,
+      50.37499922999999,
+      127.55000036999999,
+      77.88499841000001
+    ],
+    "route_truth": "95",
+    "readable": true,
+    "note": "Transcription visuelle manuelle avant OCR"
+  },
+  {
+    "roi": "11.jpg",
+    "source": "data/route/test/images/00330_v1valid__WhatsApp-Image-2026-02-24-at-15-28-57_jpeg_bus1_jpg.rf.1ee83def515a8aa541362075e0fac641.jpg",
+    "box": [
+      66.72499923000001,
+      41.924999220000004,
+      76.63499924999999,
+      54.11500006000001
+    ],
+    "route_truth": "95",
+    "readable": true,
+    "note": "Transcription visuelle manuelle avant OCR"
+  },
+  {
+    "roi": "12.jpg",
+    "source": "data/route/test/images/00345_v1valid__WhatsApp-Image-2026-02-24-at-15-29-00-2-_jpeg_bus1_jpg.rf.0e4f99c53ca8922a8797a1f0c9e7460b.jpg",
+    "box": [
+      290.73999756499995,
+      93.21999696,
+      349.039993715,
+      175.56000048
+    ],
+    "route_truth": "",
+    "readable": false,
+    "note": "Exclu : affichage partiel, non numérique ou trop ambigu pour une ligne complète"
+  },
+  {
+    "roi": "13.jpg",
+    "source": "data/route/test/images/00357_v1valid__WhatsApp-Image-2026-02-24-at-15-29-03-2-_jpeg_bus1_jpg.rf.588d6fe25a0d115e8e653dc78c71f623.jpg",
+    "box": [
+      129.98999992,
+      69.119997655,
+      154.17000104000002,
+      114.05999932499999
+    ],
+    "route_truth": "",
+    "readable": false,
+    "note": "Exclu : affichage partiel, non numérique ou trop ambigu pour une ligne complète"
+  },
+  {
+    "roi": "14.jpg",
+    "source": "data/route/test/images/00372_v1valid__WhatsApp-Image-2026-02-24-at-15-29-06_jpeg_bus1_jpg.rf.00e9142caf85c65344727ca23cfdb3b0.jpg",
+    "box": [
+      82.87999885,
+      38.655001365000004,
+      113.93999935,
+      65.245001055
+    ],
+    "route_truth": "516",
+    "readable": true,
+    "note": "Transcription visuelle manuelle avant OCR"
+  },
+  {
+    "roi": "15.jpg",
+    "source": "data/route/test/images/00375_vid__vid_bus2_f0000_bus1_jpg.rf.5333d4e5754a3c3285c835ed9def6876.jpg",
+    "box": [
+      124.79000064,
+      41.420000655,
+      144.39000064,
+      57.939999705
+    ],
+    "route_truth": "",
+    "readable": false,
+    "note": "Exclu : affichage partiel, non numérique ou trop ambigu pour une ligne complète"
+  },
+  {
+    "roi": "16.jpg",
+    "source": "data/route/test/images/00381_vid__vid_bus2_f0060_bus2_jpg.rf.188b9389e5a0b10608786bb16e65aa42.jpg",
+    "box": [
+      70.8150003,
+      45.02000095,
+      79.84500018,
+      57.180000650000004
+    ],
+    "route_truth": "",
+    "readable": false,
+    "note": "Exclu : affichage partiel, non numérique ou trop ambigu pour une ligne complète"
+  }
+]
